@@ -1,3 +1,4 @@
+#Handles state init, transitions and cleanup
 class_name StateMachine extends StatePlugin
 
 @export var initial_state: State = null
